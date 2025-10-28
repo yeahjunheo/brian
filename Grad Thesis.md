@@ -1,6 +1,6 @@
 ## ABSTRACT
 
-[[kyoto_uni/MQTT|MQTT]] security. 
+[[MQTT]] security. 
 
 Transition from MQTT 3.1.1 → MQTT 5.0 introduced enhanced authentication mechanisms that remain underexplored.
 
