@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Grad Thesis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Grad Thesis"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Grad Thesis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for Grad Thesis"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Grad Thesis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from Grad Thesis"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "Grad Thesis.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Grad Thesis"
             }
           },
           {
@@ -180,8 +180,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "25c75fcb5ade61be",
+  "active": "ec0cf47d2557af91",
   "lastOpenFiles": [
-    "README.md"
+    "rshpprs/The IoT healthcare monitoring system based on MQTT protocol.md",
+    "rshpprs/Effective Feature Engineering Framework for Securing MQTT Protocol in IoT Environments.md",
+    "rshpprs/Secure Enhancement for MQTT Protocol Using Distributed Machine Learning Framework.md",
+    "rshpprs",
+    "MQTT.md",
+    "README.md",
+    "Grad Thesis.md",
+    "Untitled.base"
   ]
 }
